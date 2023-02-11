@@ -9,7 +9,7 @@
 <a href="https://www.github.com/sahilmahendrakar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/sahilmahendrakar/">
+<a href="https://www.linkedin.com/in/sahil-mahendrakar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/sahilmahendrakar">
