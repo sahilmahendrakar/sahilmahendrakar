@@ -22,7 +22,6 @@
 - :brain: Currently learning about crypto and zero knowledge proofs
 - :laughing: I like to rock climb 🧗 and cafe hop :coffee:
 
-[![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilmahendrakar)](https://github.com/sahilmahendrakar/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmahendrakar)](https://github.com/sahilmahendrakar/github-readme-stats)
 
 <!--
