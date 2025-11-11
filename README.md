@@ -1,7 +1,7 @@
 ### Hi all! 👋 😄
 
 <p align='center'>
-  I'm Sahil Mahendrakar, a junior at Columbia University majoring in CS. I'm interested in ML/AI, cryptography, and blockchain. 
+  I'm Sahil Mahendrakar, a SWE at Amazon (AWS). I'm interested in AI, cryptography, and blockchain. 
 </p>
 
 
