@@ -11,9 +11,9 @@
 <a href="https://www.linkedin.com/in/sahil-mahendrakar/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/sahilmahendrakar">
+<!-- <a href="https://instagram.com/sahilmahendrakar">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-</a>
+</a> -->
 <a href="https://www.sahilmahendrakar.com">
     <img src="https://img.shields.io/badge/website-6C63FF?style=for-the-badge&logo=About.me&logoColor=white" />        
 </a>
