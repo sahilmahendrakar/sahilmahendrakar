@@ -1,9 +1,8 @@
 ### Hi all! 👋 😄
 
 <p align='center'>
-  I'm Sahil Mahendrakar, a SWE at Amazon (AWS). I'm interested in AI, cryptography, and blockchain. 
+  I'm Sahil Mahendrakar, a SWE at Amazon (AWS). I'm interested in building AI products for learning & thinking.
 </p>
-
 
 <p align='center'>
 <a href="https://www.github.com/sahilmahendrakar">
@@ -15,26 +14,38 @@
 <a href="https://instagram.com/sahilmahendrakar">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
+<a href="https://www.sahilmahendrakar.com">
+    <img src="https://img.shields.io/badge/website-6C63FF?style=for-the-badge&logo=About.me&logoColor=white" />        
+</a>
 </p>
 
+---
+
+### My Favorite Projects 🚀
+- 📚 **Aristotle** — an AI-powered e-reader that helps you get *more out of reading* (without replacing the experience)
+  - spoiler-free chat while reading
+  - contextual explanations + insights
+  - explorations across PDFs + EPUBs  
+- 🧠 **Lyrn Code** — an AI-powered coding tutor designed to teach *how to think*, not just how to solve
+
+I’m especially interested in AI that augments learning: curiosity, reflection, and deeper understanding.
+
+---
+
 ### About Me
-- 💻 Most of my Github repos are random apps and hackathon projects I've made over the past few years
-- :brain: Currently learning about crypto and zero knowledge proofs
-- :laughing: I like to rock climb 🧗 and cafe hop :coffee:
+- 💻 I like building random apps, polished prototypes, and weird experiments
+- 🧠 Into: **AI + learning tools**, agentic interfaces, long-term memory systems
+- 🔐 Also interested in cryptography + zk proofs (still learning)
+- 🧗 Outside work: rock climbing & café hopping ☕️
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmahendrakar)](https://github.com/sahilmahendrakar/github-readme-stats)
+---
 
-<!--
-**sahilmahendrakar/sahilmahendrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Get in touch
+If you're building cool things (AI or otherwise), I’m always happy to connect.
 
-Here are some ideas to get you started:
+📍 Website: **sahilmahendrakar.com**  
+💬 LinkedIn: **/in/sahil-mahendrakar/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmahendrakar&layout=compact)](https://github.com/sahilmahendrakar/github-readme-stats)
